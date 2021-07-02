@@ -8,7 +8,7 @@ setup(
   author = 'Satish Singh',                   # Type in your name
   author_email = 'satishs248@gmail.com',      # Type in your E-Mail
   url = 'https://github.com/user/reponame',   # Provide either the link to your github or to your website
-  download_url = 'https://github.com/user/reponame/archive/v_01.tar.gz',    # I explain this later on
+  download_url = 'https://github.com/satishs248/fisrtPyPiPackageSatishS248/archive/v_01.tar.gz',    # I explain this later on
   keywords = ['test', 'hello-world'],   # Keywords that define your package best
   install_requires=[ ],
   classifiers=[
